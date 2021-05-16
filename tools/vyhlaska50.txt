@@ -1,0 +1,377 @@
+1.	Isolované vodiče jsou barevně označeny: Lx fázové vodiče – černá, hnědá, šedá; N střední vodiče – světle modrý; PE ochranný vodič – zelenožlutý. 
+ 
+2.	Zdroje pro ochranu SELV a PELV mohou být např.: bezpečnostní ochranní transformátor. 
+ 
+3.	Pro účely ochrany z hlediska bezpečnosti dotyku se napětí dělí na: nebezpečné a bezpečné napětí. 
+ 
+4.	Co je účelem revize elektrického zařízení: ověření stavu zařízení z hlediska bezpečnosti. 
+ 
+5.	Na pracovištích, kde je stanoven vedoucí práce, má dozor nad bezpečnosti všech pracovníků a používání ochranných pomůcek : vedoucí práce. 
+ 
+6.	Postup při poskytování první pomoci při úrazu elektrickým proudem: vyprostit postiženého z dosahu elektrického proudu, ihned zavést umělé dýchání pokud nedýchá, ihned zahájit nepřímou srdeční masáž nemá-li tep, přivolat lékaře, uvědomit vedoucího pracoviště. 
+ 
+7.	Zemní odpor uzemnění kovových skříní telekomunikačních rozvaděčů nemá být větší: než 15  
+ 
+8.	Kdo přesvědčuje skupinu před přímým dotykem na zajištěnou část elektrického zařízení: pracovník, který pracoviště zajišťoval. 
+ 
+9.	Elektrické zařízení pracovního stroje musí mít: zařízení nouzového zastavení stroje v případě nebezpečí. 
+ 
+10.	Při zahájení umělého dýchání je důležitá poloha hlavy: v záklonu 
+ 
+11.	Ochrany před nebezpečným dotykem neživých částí jsou: ochrana samočinným odpojením od zdroje, pospojováním. 
+ 
+12.	Pro nouzové zastavení se používá tlačítko označeného: červenou barvou. 
+ 
+13.	Pracovníci jsou povinni používat osobní ochranné a pracovní pomůcky: všude, kde je to příslušnými předpisy předepsáno s výjimkou přímého příkazu nadřízeného vedoucího práce. 
+ 
+14.	Před započetím záchranných prací při zátopách nebo požárech  musí být: vypnut elektrický proud mimo napájení zařízení zajišťující bezpečnost požární. 
+ 
+15.	Označte které je nejvyšší dotykové střídavé napětí u zřízení do 1 000 V v prostorách zvlášť nebezpečných: 25V 
+ 
+16.	Pracovat na kabelových žilách kabelů nn je dovoleno: jen po odpojení kabelů ze všech stran při bezpečném zajištění zkratováním na krátko. 
+ 
+17.	Odpor ochranného vodiče mezi zdířkou vidlice a kostrou zařízením musí být: menší než 0,2 při délce 3 m. 
+ 
+18.	Jak se označuje sít TN, v jejíž, první části plní ochranný vodič současně funkci středního vodiče a v druhé části je ochranný a střední vodič veden samostatně: TN-C-S. 
+ 
+19.	Vybavovací proud proudového chrániče pro venkovní zásuvky musí být maximálně: 0,03A. 
+ 
+20.	Při kladení elektrického vedení do strojů a podlah nutno dbát: aby úpravami nebyla snížená nosnost podlahy ani stropu. 
+ 
+21.	Jak se ověřuje beznapěťový stav elektrického zařízení, na němž se má pracovat: ověří se na všech fázích, pólech a přívodech. 
+ 
+22.	Elektrická zařízení můžeme klást na hořlavé látky: podle stupně hořlavosti na určenou nehořlavou , tepelně, izolující podložku, nebo použitím materiálů zkoušených pro montáž na hořlavý podklad. 
+ 
+23.	Při umělém dýchání je nutné: postiženému vždy zaklonit hlavu a ucpat nosní dírky. 
+ 
+24.	Paralelní vodiče: musí být stejného průřezu, délky a materiálu žily. 
+ 
+25.	Rozdělení elektrického zařízení podle napětí mezi vodiči v uzemněné střídavé soustavě je: mn do 50 V, nn do 1 000 V, vn do 52 kV. 
+ 
+26.	První úkony při zajištění úrazu elektrickým proudem jsou: zjistit, zda je postižený při vědomí, zda dýchá, je u něho hmatný tep, je-li jinak porušen jinak v negativním případě zahájit první pomoc. 
+ 
+27.	Stabilizovaná poloha je: na boku s pokrčenou dolní končetinou, aby nedošlo k vdechnutí zvratků. 
+  
+28.	Minimální průřez vodiče pro světelné a zásuvkové obvody u jištění 10 A činí: 1.5 mm2 Cu. 
+ 
+29.	Doplňkovou ochranou proudovým chráničem u ochrany živých částí lze použít: ke zlepšení jiných opatření na ochranu před nebezpečným dotykem. 
+ 
+30.	Při silném tepenném krvácení: postiženou končetinu zvedneme do výše, stlačíme přívodní tepnu v tlakovém bodě nebo přímo v ráně a přiložíme sterilní tlakový obvaz. 
+ 
+31.	Dlahu musíme přiložit tak, aby znehybnila: kloub nad i pod zlomeninou. 
+ 
+32.	Izolační odpor napájecího obvodu EPS proti kostře a ostatních obvodů proti kostře musí být větší než: 7 M. 
+ 
+33.	Kabely s kódovým označením “ C “ obsahují: ochranou (žlutozelená izolace), fázovou (hnědá a šedá), střední pracovní (světle modrá). 
+
+34.	Barvy světelných návěstí a jejich význam: nebezpečí nebo poplach - červená, výstraha - žlutá, bezpečná funkce - zelená. 
+ 
+35.	Olověné akumulátory smějí být umístěny, ošetřovány ve společném prostoru s alkalickými: -nesmí být. 
+ 
+36.	Zařízení třídy 0 se v ČR: -nesmějí se používat. 
+ 
+37.	Minimální průřez ochranného vodiče u ochrany pospojováním nesmí být menší než: 6mm2 . 
+ 
+38.	Proud v zásuvce 230V měříme: -nejde. 
+ 
+39.	Elektrická síť, ve které je určitý bod pracovního obvodu bezprostředně uzemněn se nazýva: -TN. 
+ 
+40.	Při umísťování přístrojů a spotřebičů se musí dbát zejména: aby splňovaly všechny předpisové normy, nebyla narušena správná funkce, bezpečnost a spolehlivost a aby v okolí nebyly hořlavé látky. 
+ 
+41.	Před uvedením elektrického zařízení se musí provést: výchozí revize elektrického zařízení provedena revizním technikem. 
+ 
+42.	Zásuvky 230V se připojují: aby ochranný kolík byl nahoře, střední nulovaní vodič vpravo, fázový vodič vlevo při pohledu zepředu. 
+ 
+43.	Kabely do 25 mm2 se upevňují na příchytky v maximální vzdálenosti od sebe: 60cm. 
+ 
+44.	Uzemnění elektrického zařízení se chrání spoje zemničů v zemi proti korozi: všechny spoje např. asfaltovou zálivkou, licí pryskyřicí apod. 
+ 
+45.	Proti přetížení a zkratovým proudům musí být jistícími prvky chráněny: fázové (krajní vodiče). 
+ 
+46.	Ochrana použitím zařízení tř. II nebo s rovnocennou izolací je zajišťována: elektrickým zařízením typově zkoušeným podle ČSN (zařízení s dvojitou nebo zesílenou izolací) eventuálně přídavnou nebo zesílenou izolací v průběhu montáže. 
+ 
+47.	Při zajištění pracoviště s pojistkami v rozvaděčích je nutno zejména: vyjmout pojistky, bezpečně je uschovat mimo prostor rozvaděče a provést ostatní ochranné opatření. 
+ 
+48.	Zkoušky a přezkoušení pracovníků znalých s vyšší kvalifikací dle vyhlášky č.50/78Sb, je nutno: každé 3 roky. 
+ 
+49.	V kabelových kanálech se v prostoru uličky: nesmějí klást kabely přímo na podlahu. 
+ 
+50.	U prozatímních elektrických zařízení je kladení pohybových šňůr na těleso vozovek: zakázáno. 
+ 
+51.	Označte typy hasících přístrojů, které se používají k hašení požáru el. Zařízení pod napětím v jeho blízkosti: sněhový. 
+ 
+52.	Označte, jaké je bezpečné malé napětí střídavé při dotyku živých částí v prostorech nebezpečných: 25V. 
+ 
+53.	Určete, který z následujících předmětů patří do třídy ochrany II : ten, který má všude dvojitou nebo zesílenou izolaci a nemá zařízení na připojení ochranného vodiče. 
+ 
+54.	Hlavní části hromosvodu je: jímací zařízení, úchytky doplňující pomocné přizemňovací vodiče, zemniče. 
+ 
+55.	Pracovní a ochranné uzemnění různých zařízení do 1 000V se smějí spojovat: vždy. 
+ 
+56.	Proudové chrániče musí vypínat: všechny pracovní vodiče. 
+ 
+57.	Osoby bez elektrotechnické kvalifikace mohou: obsluhovat jednoduchá elektrická zařízení mn a nn, která jsou provedena tak, že při jejich obsluze nelze přijít do styku s nekrytými částmi. 
+ 
+58.	Hlavní stoupání vedení v budovách se jistí: v místech změn průřezu hlavního domovního vedení. 
+ 
+59.	Třídy bezpečnosti u elektrických předmětů a zařízení se označují: 0,I,II,III . 
+ 
+60.	Živé a neživé části obvodů SELV: nesmějí být spojeny se zemí, nebo s živými částmi a musí být elektricky odděleny od jiných obvodů. 
+ 
+61.	Pěší komunikace v rozvodnách nn musí mít minimálně: šířku 1 200 mm. 
+ 
+62.	Zásuvky elektrických zařízení na staveništích musí být chráněny: proudovým chráničem s maximálním vybavovacím proudem 30 mA. 
+ 
+63.	Pohyblivé přívody spotřebičů třídy II zakončené dvoupólovou vidlicí bez ochranného kontaktů: mohou mít obě žíly mít stejnou barvu. 
+ 
+64.	Maximální doba odpojení pro sítě TN pro U0=230V je: 0,4s. 
+ 
+65.	Pracovníci znalí mohou: samostatně obsluhovat elektrické zařízení, pracovat na částech elektrického zařízení nn sami, a to na částech bez napětí, v blízkosti částí bez napětí a na částech pod napětím. 
+ 
+66.	Pracovníci podle §7 vyhlášky č.50/78 Sb.: jsou pracovníci znalí s vyšší kvalifikací pro řízení činnosti na elektrických na elektrických zařízeních. 
+ 
+67.	Dovolené dotykové napětí u zařízení do 1000V~ v prostorech zvlášť nebezpečných je:  ~ 25V, =60V 
+68.	Jak se dosáhne zvýšená ochrana před nebezpečným dotykem u neživých částí: rozšířením ochrany základní o určitý druh další ochrany. 
+ 
+69.	Náhodné svody hromosvodní ochrany mohou tvořit: kovové konstrukce o průřezu minimálně 100mm2. 
+ 
+70.	Umělé dýchání metodou z plic do plic se počátečním vdechu provádí v rytmu: 12-16x za minutu. 
+ 
+71.	Holé vodiče ~ soustavy se značí barvami: fázové vodiče – oranžové s černými pruhy. 
+ 
+72.	Rozvodné sítě dělíme: TN-C, TN-S, TN-CS, TT, IT. 
+ 
+73.	Kolik svítidel se smí připojit na jeden světelný obvod: tolik, aby součet jejich jednotlivých proudů nepřekročil jmenovitý proud jistícího prvku. 
+ 
+74.	Prostory z hlediska úrazu elektrickým proudem se člení na: normální, nebezpečné a zvlášť nebezpečné. 
+ 
+75.	Zaškrcovalo přikládáme jen výjimečně a to: nad ránou směrem k srdci. 
+ 
+76.	Přemisťování strojů a elektrických spotřebičů je možné: jen při odpojení ze sítě. 
+ 
+77.	Bezpečná jmenovitá napětí v prostorách normálních jsou: ~do50V, =do120V. 
+ 
+78.	Jaký je obecný význam barev pro bezpečnost osob nebo prostředí: červená barva značí nebezpečí. 
+ 
+79.	Proudové chrániče musí vypínat: všechny pracovní vodiče. 
+ 
+80.	Při rozpojování musí být ochranný obvod ochranného spojení rozpojen: jako poslední. 
+ 
+81.	Vedoucí práce je: pracovník pověřený vedením skupiny. 
+ 
+82.	Ochrana před nebezpečným dotykem živých částí je tvořena: izolací živých částí. 
+ 
+83.	Jak se připojuje vypínací cívka, ochranné spouště napěťového chrániče: připojuje se jedním pólem na chráněnou část a druhým pólem chráničový zemnič. 
+ 
+84.	Jistící prvky v rozvaděčích a rozvodnicích mají při poruše za úkol odpojit: chráněnou část vedení. 
+ 
+85.	U rozvaděčů a rozvodnic, kde po otevření dveří není zajištěn minimální stupeň krytí IP20: otevření dveří je možno provést jen s klíčem nebo nástrojem. 
+ 
+86.	Ochrana elektrickým oddělením může být vytvořena: oddělovacím transformátorem. 
+ 
+87.	V sítích TN se ochranné vodiče PEN a PE: nesmí jistit. 
+ 
+88.	Prozatímní zařízení je povoleno na dobu: 6 měsíců. 
+89.	Ochrana zábranou musí být vytvořena v prostorách přístupným laikům: uzamčením nebo neodnímatelným ohrazením pevným vysokým a dostatečně vzdáleným od živých částí. 
+ 
+90.	Vlastník elektrické přípojky: ten, kdo uhradil náklady na její zřízení. 
+ 
+91.	Elektrická energie pro zařízení EPS, EZS je nutno dodávat samostatným navypínatelným vedením: z hlavního rozvaděče do objektu. 
+ 
+92.	Pohyblivé přívody třídy I pro zařízení nn musí mít ochranný vodič označený: po celé délce přívodu. 
+ 
+93.	Které z uvedených odpovědí označují podmínky ochrany bezpečným napětím: SELV a PELV. 
+ 
+94.	Ke každému elektrickému zařízení určeného laikům musí být dodána: technická dokumentace. 
+ 
+95.	Jaké zvonky nesmí být nainstalovány v budovách, kde je zaveden plyn: nejiskřící. 
+ 
+96.	Jaká je nejkratší požadovaná délka praxe u pracovníků pro samostatnou činnost na příslušném druhu zařízení a napětí do 1 000V: 1 rok. 
+ 
+97.	Až na některé případy musí být u ochrany kryty nebo přepážkami, živé části chráněny v prostorách přístupným osobám bez elektrotechnické kvalifikace stupeň krytí minimálně: IP20. 
+ 
+98.	Při rozpojování musí být ochranný obvod ochranného spojení rozpojen: jako poslední. 
+ 
+99.	Nepřímá srdeční masáž se musí provádět: metodou 2 vdechů a 30 stlačení. 
+ 
+100.	Vidlice a zásuvky: nelze je použít k nouzovému vypínání. 
+ 
+101.	Bezpečnostní tabulky dělíme na: tabulky výstrahy, příkazu, zákazu, sdělení. 
+ 
+102.	K jakému účelu může být použito vodiče označeného barvou zelenožlutou: jen pro vodiče ochranné. 
+ 
+103.	Které vodiče musí procházet proudovým chráničem při ochraně chrániči: všechny pracovní vodiče. 
+ 
+104.	Silové kabely nn se ukládají pod chodník v minimální hloubce: 35 cm. 
+ 
+105.	U kovových trubek nebo krytů chránících zařízení tř. II: se nemusí provádět ochrana a před nebezpečným dotykovým napětím. 
+ 
+106.	Kdy je dovoleno pracovat na kabelech: po odpojení ze všech stran a po kontrole, jestli není na konci kabelů, napětí a navíc po uzemnění a spojení nakrátko. 
+ 
+107.	Kde se mohou provádět spoje izolovaných vodičů: v krabicích, rozvodkách a rozvaděčích. 108. Sdělovací zařízení a obvody: mají být spolehlivě odděleny od silových zařízení a obvodů. 
+ 
+109.	Za náhradní ochranné vodiče se nesmí používat: odnímatelné zařízení, zábradlí, ploty apod. 
+ 
+110.	Pracovníci seznámení mohou: samostatně obsluhovat jednoduchá a elektrická zařízení mn a nn. 
+ 
+111.	Barva bezpečnostních tabulek zákazu je: červená. 
+ 
+112.	V sítích TN-C vodiče PEN: nesmí být ani odpojován ani spínán, u zásuvek musí být odpínán jako poslední a spínán jako první. 
+ 
+113.	Pracovní a ochranná uzemnění u různých zařízení do 1 000 V se smějí spojovat: vždy. 
+ 
+114.	Vidlice a zásuvky pro obvody SELV a PELV musí splňovat: zásuvky nesmí mít ochranný kontakt. 
+ 
+115.	Svody u hromosvodní ochrany se chrání nad zemí uhelníkem nebo trubkou do výše: 1,82m. 
+ 
+116.	Základní podmínkou pro funkci ochrany samočinným odpojením od zdroje v sítích TN je: impedance ochranné smyčky Zs musí být větší nebo rovna U0/Ia kde U0 je jmenovité střídavé napětí proti zemi, Ia je proud zajišťující samočinné působení nadproudového odporovacího ochranného prvku. 
+ 
+117.	Do stabilizované polohy je nutno uložit všechny osoby: v bezvědomí, kteří dostatečně dýchají. 
+ 
+118.	Elektrické zařízení provedená podle ČSN před jejich novelizací: lze dále provozovat, pokud nemají závady ohrožující život bezpečnost osob nebo majetku v tomto případě je lze používat podle místních pracovních a bezpečnostních předpisů. 
+ 
+119.	Při vyprošťování postiženého elektrickým výbojem je nejdříve nutno: vypnout elektrické zařízení. 
+ 
+120.	Kdy se stává elektrikář pracovníkem znalým §5: po zaškolení a složení zkoušky podle vyhlášky č.50/78 Sb. 
+ 
+121.	Zakázané práce ve venkovním prostru na elektrickém zařízení jsou: práce za bouřky, deště a sněžení, mimořádně silném větru. 
+ 
+122.	Jak dlouhá musí být ochrana žíla u pohyblivých přívodů a šňůrových vedení v místě připojení do svorek: musí být tak dlouhé, aby při vytržení šňůry ze svorek byla namáhána tahem až po přerušení (vytržení pracovních žil). 
+ 
+123.	Výměnu pojistkových vložek do 6 kV pod napětím může provádět: osoba znalá s vyšší kvalifikací od §6 vyhl. č. 50/78Sb. 
+ 
+124.	Elektrické provozovny jsou: uzamykatelné, oddělené prostory určené k výrobě, rozvodu nebo proměně elektrické energie zabezpečené proti vstupu nepovolané osoby. 
+ 
+125.	U pracovních strojů musí být motory: snadno přístupné údržbě, kontrole, mazání apod. 
+ 
+126.	U rozvodnic a rozvaděčů nn nesmí být přechodný odpor mezi kovovými neživými částmi a ochrannou svorkou větší než: 0,1 
+ 
+127.	Dovolené meze trvalého dotykového napětí neživých částí zařízení do 1 kV v prostorech normálních i nebezpečných jsou: 50V ~, 120V =. 
+ 
+128.	Proti přetížení a zkratovým proudům musí být jistícími prvky chráněny: fázové (střední)vodiče. 
+ 
+129.	Připojovací prostředky ochranných vodičů: nesmějí být použity pro upevnění jiných konstrukčních částí elektrických předmětů. 
+ 
+130.	Hlavní připojování v každé budově: musí být provedeno. 
+ 
+131.	V současné době se přechází v rozvodné síti ČR na soustavu napětí: 230V/400V. 
+ 
+132.	Označování svorek elektrických předmětů: U, V, W – L1-L3 střední N. 
+ 
+133.	Práce pod dohledem je práce, která se provádí: podle podrobnějších pokynů, pracovník provádějících dohled se přesvědčí, zda jsou provedena nutná opatření. Za dodržování bezpečnostních předpisů zodpovídají pracovníci. 
+ 
+134.	Plynové potrubí se jako náhodný chránič: nesmí používat. 
+ 
+135.	Zdravý dospělý člověk má v klidu během 1 minuty: 60-80 tepů. 
+ 
+136.	Podle vyhlášky č. 50/78 Sb. Jsou pracovníci pro samostatnou činnost dle §6: jsou pracovníky znalými s vyšší kvalifikací a podléhají přezkoušení a zkouškám u stanovené komise. 
+ 
+137.	V koupelně v zóně 0 se smí instalovat: jen elektrické přístroje určené k výhradnímu použití v koupelnové vaně. 
+ 
+138.	Označení, stupně krytí IP udává první číslo: stupeň ochrany před nebezpečným dotykem. 
+ 
+139.	Vedení zabezpečovací a požární signalizace musí být: v samostatných trubkách nebo dutinkách. 
+ 
+140.	Impedance smyčky v sitích TN musí vyhovovat: Zs*Ia je menší nebo rovno U0 [Zs*Ia=<U0]. 
+ 
+141.	Při první pomoci u ran, popálenin či zlomenin: nezdržuje se ošetřováním poranění, pouze u silného krvácení přikládá na tepny tlakový obvaz nebo škrtidlo, u popálenin přikládá sterilní obvaz, u zlomenin přikládá dlahu a znehybňuje končetinu. 
+ 
+142.	Výchozí revize elektrické zařízení zahrnuje: prohlídku, zkoušení a měření elektrického zařízení včetně sepsání závěrečné revizní zprávy a odstranění závad. 
+ 
+143.	Bezpečnostní sdělení upozorňují: na stav elektrického zařízení, na možnost ohrožení života a zdraví, sdělují zákazy nebo příkazy nutné k zajištění bezpečnosti. 
+ 
+144.	Souvislé kabelové lávky se musí spojit s ochrannou soustavu: na obou koncích. 
+ 
+145.	U pracovních strojů kabely s plnými jádry mohou být použity pro propojení pevných částí: která nejsou vystavena vibracím. 
+ 
+146.	Bezpečnostní vypínaní elektrického zařízení se musí provádět: tam, kde se rychlým vypnutím proudu zabrání havárii zařízení, požáru nebo výbuchu. 
+ 
+147.	Svorka pro připojení přívodního ochranného vodiče na pracovní stroj musí být označena: znakem ochranného uzemnění nebo písmeny PE nebo kombinací barev zelená/žlutá. 
+ 
+148.	U trojfázového motoru musí být jištěny proti přetížení: všechny fáze. 
+ 
+149.	U trojfázového motoru musí být jištěny proti přetížení: tři fáze 
+ 
+150.	Ochranné pryžové elektrotechnické rukavice jsou určeny k ochraně pracovníků, kteří mají kvalifikací alespoň: pracovník znalý. 
+ 
+151.	U zařízení hromosvodů musí být provedena výkresová dokumentace: jen v případech potřebných odběratelem. 
+ 
+152.	V čem spočívá ochrana doplňkovou izolací: ve vybavení elektrického zařízení izolačním stanovištěm (např. izolačním kobercem). 
+ 
+153.	Jmenovité napětí střídavých rozvodných sítí v ČR: 230V/400V. 
+ 
+154.	Jak musí být vydán ústní příkaz: jen při bezprostředním styku zúčastněných osob a to jasně, stručně a jednoznačně. 
+ 
+155.	Ochrany před nebezpečným dotykem živých částí rozlišujeme: ochrana izolací, krytem nebo přepážkami, zábranou, polohou, doplňková proudovým chráničem doplňkovou izolací. 
+ 
+156.	Kam se připojuje ochranný vodič: na svorku určenou pro připojení ochranného vodiče. 
+ 
+157.	Prostor zóny 0 v koupelnách je ohraničen: ode dna vany nebo sprchové mísy po okraj vany nebo mísy. 
+ 
+158.	Bezpečné malé napětí živých částí v prostorách normálních: 50V ~ nebo 100V =. 
+ 
+159.	Spínač kterým lze vypnout dle potřeby (v případě nebezpečí) el. zařízení stavby: nesmí bát po dobu pracovní směny uzamčen. 
+ 
+160.	Které tísňové  číslo slouží pro přivolání záchranné služby: 155. 
+ 
+161.	Stupně ochrany neživých částí do 1000V – základní ochrana se provede: ochrana samočinným odpojením od zdroje. 
+ 
+162.	Celkový odpor uzemnění vodičů PEN, odcházejících vedení transformovny včetně uzemněného středu zdroje nesmí být sítě o jmenovitém napětí U0=230V větší než: 2 
+ 
+163.	Na co nezapomenout při přiložení zaškrcovala: zapsat dobu přiložení zaškrcovadla.  
+ 
+164.	U hlavního pospojování v budově se musí navzájem spojit: ochranný vodič, uzemňovací přívod nebo hlavní ochranná spojka rozvod potrubí v budově, kovové pláště sdělovacích kabelů (se souhlasem majitele nebo provozovatele) 
+ 
+165.	Pracovníci jsou povinni používat osobní ochranné a pracovní pomůcky: všude, kde je to příslušnými předpisy předepsáno. 
+ 
+166.	Určete co platí pro připojení pohyblivých přívodů a šňůrových vedení: přívody a vedení musí být spolehlivě odlehčeny od tahu. 
+ 
+167.	Pokud elektrická instalace obsahuje rozvody je provozovatel povinen: závady odstranit v termínu stanoveného revizním technikem nebo dále provozovat podle místních pracovních a bezpečnostních předpisů k zjištění bezpečnosti. 
+ 
+168.	Určete prioritu jištění vedení a spotřebičů: vedení pak spotřebiče. 
+ 
+169.	Revize a kontroly elektrického ručního přenosného nářadí třídy I se provádí: v intervalech podle třídy používání 1x za 2-6 měsíců. 
+ 
+170.	Elektrické sdělovací zařízení je zařízení: k přenosu a zpracování informací. 
+ 
+171.	Pro nouzové testování se používá: červené tlačítko. 
+ 
+172.	Vyprošťování postiženého s proudového oblouku při úrazu elektrickým proudem: co nejrychleji přerušení obvodu spínačem, izolovaným předmětem nebo odtržením. 
+ 
+173.	Pracovník znalý smí pracovat v blízkosti pod napětím: v bezprostřední blízkosti. 
+ 
+174.	Odborné pomůcky jsou např.: izolační koberec, plošiny, rukavice, boty, přilby, brýle, ochranné pásy, apod. 
+ 
+175.	Stupeň ochrany krytím IP64 znamená: prachotěsné, ochrana před stříkající vodou. 
+ 
+176.	Přístupný prostor před rozvodným zařízením u samostatného rozvaděče nebo rozvodnice musí být: minimálně 80cm. 
+ 
+177.	Srdeční masáž při poskytování první pomoci se provádí: do obnovení srdeční činnosti nebo do příchodu lékaře. 
+ 
+178.	Svítidla pro osvětlení v pracovním stroji se mohou napájet napětím max.: 50V. 
+ 
+179.	Ke každému elektrickému zařízení musí být: vedena dokumentace odpovídající skutečnosti. 
+ 
+180.	Třídy bezpečnosti u elektrických předmětů a zařízení se označují: 0, I, II, III. 
+ 
+181.	Vnější vlivy jsou podle nové normy označovány tak, že každý stupeň vnějšího vlivu je kódován: dvěma písmeny velké abecedy a číslicí (např.: AD4). 
+ 
+182.	Mimo revize elektrického ručního přenosného nářadí s vnitřní prohlídkou se provádí kontrola vnější prohlídka: před vydáním nářadí pracovníkovi. 
+ 
+183.	Nátěry, barvy a laky u ochrany živých částí izolací: nejsou samy o sobě používány za přiměřenou izolaci pro ochranu před nebezpečným dotykem. 
+ 
+184.	Elektrická vedení rozváděčích musí být: zřetelně označená a uspořádaná tak, aby je bylo možno snadno identifikovat při revizích, opravách a údržbě. 
+ 
+185.	Posuďte, jak rychle vypínají motorové jističe a jistící relé stykačů malé nadproudy s porovnáním s pojistkami a jističi: podstatně pomaleji. 
+ 
+186.	Kabely s kódovým označením A (např.: CYKY 2A x 1,5) mají žíly barvy: fázových vodičů. 
+ 
+187.	Revize  a kontroly elektrického ručního nářadí tř. II, III se provádí: ve lhůtách podle třídy používání 1x za 3-12 měsíců. 
+ 
+188.	Do kovových trubek bez izolačního vyložení lze pro vedení nn zatahovat vodiče: pouze vodiče s izolací. 
+ 
+189.	Vedení z můstkových vodičů se skládá tak: aby nedošlo při kladení na podklad ke zhoršení izolační pevnosti. 
+ 
+190.	Práce na elektrických zařízeních pod napětím v prostorách těsných, které nevyhovují platným předpisům: jsou zakázány. 
+ 
+191.	Jaká kvalifikace je nezbytná, aby pracovník mohl pracovat pod napětím nn na pracovištích venku, v prostorách vlhkých a mokrých: pracovník znalý s vyšší kvalifikací. 
