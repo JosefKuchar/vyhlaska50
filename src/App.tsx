@@ -1,25 +1,16 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Generator from './Generator';
+import { Typography, Container } from '@material-ui/core';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Container>
+      <Typography variant="h4" style={{ marginTop: 20, textAlign: 'center' }}>⚡ Vyhláška 50/78 Sb. § 5</Typography>
+      <Typography variant="subtitle2" style={{ marginBottom: 20, textAlign: 'center' }}>Vytvořil Josef Kuchař</Typography>
+      <Generator />
+    </Container>
   );
 }
 

@@ -29,4 +29,5 @@ with io.open('vyhlaska50.txt','r',encoding='utf8') as f:
 
     lines.append(data)
 
-print(json.dumps(lines))
+
+print('export default' + json.dumps(lines) + ';')
